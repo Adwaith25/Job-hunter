@@ -1,0 +1,59 @@
+{
+  "personal": {
+    "fullName": "Your Name",
+    "email": "your_email@example.com",
+    "phone": "+91 9876543210",
+    "city": "Kochi",
+    "country": "India",
+    "linkedinUrl": "https://www.linkedin.com/in/your-profile",
+    "githubUrl": "https://github.com/your-username"
+  },
+  "preferences": {
+    "targetTitles": [
+      "Software Engineer",
+      "Software Developer",
+      "Full Stack Developer",
+      "Frontend Developer",
+      "Backend Developer",
+      "React Developer",
+      "Python Developer"
+    ],
+    "experienceLevel": [
+      "Entry level",
+      "Associate"
+    ],
+    "excludedKeywords": [
+      "Senior Staff",
+      "Staff Software",
+      "Principal",
+      "Director",
+      "VP",
+      "Team Lead",
+      "Manager",
+      "10+ years"
+    ],
+    "minFitScore": 50
+  },
+  "skills": {
+    "defaultYears": 1,
+    "yearsOfExperience": {
+      "Python": 2,
+      "JavaScript": 2,
+      "React": 1,
+      "FastAPI": 1,
+      "SQL": 1,
+      "Git": 2
+    }
+  },
+  "screeningAnswers": {
+    "workAuthorization": "Yes",
+    "requireSponsorship": "No",
+    "noticePeriodDays": "0",
+    "noticePeriod": "Immediate",
+    "comfortableWithCommute": "Yes",
+    "willingToRelocate": "Yes",
+    "highestEducation": "Bachelor's Degree",
+    "englishProficiency": "Fluent"
+  }
+}
+

@@ -1,0 +1,25 @@
+# Node & Dependencies
+node_modules/
+package-lock.json
+
+# CRITICAL SECURITY: Do NOT commit browser profiles or login session cookies!
+my-safe-session/
+browser-session/
+*.pma
+*.dat
+*.lock
+
+# Generated Scraped Data, Screenshots, and Tracker
+output/
+
+# Playwright Artifacts
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+playwright/.auth/
+
+# Local personal credentials & resume (keep private)
+profile.json
+*.pdf
+*.docx
